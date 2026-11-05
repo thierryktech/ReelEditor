@@ -1,0 +1,2 @@
+# Balena video workspace
+Use `.claude/skills/balena-video/SKILL.md` for Balena ads and Reels. Defaults are 2D anime, exact original product layers and silent mascot stories. Current user instructions override defaults. Preserve all source artwork. Do not publish, spend credits or upload assets without task authorization. Source artwork is not bundled; import originals into ignored `private-assets/` and update the campaign manifest. Never claim rendered media exists when only prompts were produced.
