@@ -1,0 +1,28 @@
+{
+  "campaign_id": "christmas-anime-draft",
+  "deliverable": "storyboard-and-prompts",
+  "objective": "Introduce Balena Christmas coffee gifts",
+  "audience": "Thai coffee customers",
+  "placement": "instagram-reel",
+  "style": "2d-anime",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration_seconds": 16,
+  "parts_seconds": [
+    8,
+    8
+  ],
+  "products": [],
+  "character_reference": null,
+  "product_assets": {},
+  "text_policy": "original-labels-only",
+  "audio_policy": "silent",
+  "offer": null,
+  "cta": null,
+  "renderer": "not-selected",
+  "notes": [
+    "Gift box is a visual concept until confirmed as an actual offer.",
+    "Select exact product originals before rendering."
+  ]
+}
